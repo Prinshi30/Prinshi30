@@ -31,7 +31,6 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
   <li>- ⚡ Fun fact: I waste most of my time playing games</li>
 </ul>
 
-
 #### A little more about me
 ```javascript
 const Priyanshi = {
