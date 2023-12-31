@@ -27,7 +27,7 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
   <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
   <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
   <li> 📫 <b>How to reach me</b> : <code><a href="http://www.linkedin.com/in/priyanshi-singh30">LinkedIn</a></code></li>
-  <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://prinshi30.github.io/Portfolio/">https://#/</a></code></li>
+  <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://prinshi30.github.io/Portfolio/">click </a></code></li>
   <li>- ⚡ Fun fact: I waste most of my time playing games</li>
 </ul>
 
