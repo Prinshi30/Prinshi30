@@ -29,8 +29,10 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
   <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://prinshi30.github.io/Portfolio/">Portfolio</a></code></li>
   <li>- ⚡ Fun fact: I waste most of my time playing games</li>
 </ul>
+
 #### A little more about me
 ```javascript
+
 const Priyanshi = {
   pronouns: "She" | "Her",
   age: 19 ,
@@ -47,6 +49,7 @@ const Priyanshi = {
       }
   }
 }
+
 ```
 
 ## 🛠️ Technologies and Tools I use:
